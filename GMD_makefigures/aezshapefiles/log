@@ -1,0 +1,5 @@
+201703071426   0     0     0feng999 C:\Users\feng999\Desktop\temp\aez_harmed.shp = GRIDSHAPE(C:\Users\feng999\Documents\ArcGIS\Default.gdb\aez_int, WEED)
+201703071427   0     0     0feng999 C:\Users\feng999\Desktop\temp\aez_harmed.shp = GRIDSHAPE(C:\Users\feng999\Documents\ArcGIS\Default.gdb\aez_int, NOWEED)
+201703071427   0     0     0feng999 C:\Users\feng999\Desktop\temp\basin_harmed.shp = GRIDSHAPE(C:\Users\feng999\Documents\ArcGIS\Default.gdb\basin_int, NOWEED)
+201703071428   0     0     0feng999 C:\Users\feng999\Desktop\temp\region14_harmed.shp = GRIDSHAPE(C:\Users\feng999\Documents\ArcGIS\Default.gdb\reg14_int, NOWEED)
+201703071428   0     0     0feng999 C:\Users\feng999\Desktop\temp\region32_harmed.shp = GRIDSHAPE(C:\Users\feng999\Documents\ArcGIS\Default.gdb\reg32_int, NOWEED)
