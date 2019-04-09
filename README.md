@@ -15,7 +15,7 @@ Chen, M., Vernon, C. R., Huang, M., Calvin, K. V., and Kraucunas, I. P.: Calibra
 ## Data reference
 Chen, M., Vernon, C.R., Huang, M., Calvin, K.V. & Kraucunas, I.P. (2019). Calibration and analysis of the uncertainty in downscaling global land use and land cover projections from GCAM [Data set]. https://dx.doi.org/10.25584/data.2019-04.715/1505616
 
-## Contributing model versions and DOIs
+## Contributing models
 | Model | Version | Repository Link | DOI |
 |-------|---------|-----------------|-----|
 | Demeter | v1.0.0 | https://github.com/IMMM-SFA/demeter/tree/v1.0.0 | http://doi.org/10.5281/zenodo.1214342 |
