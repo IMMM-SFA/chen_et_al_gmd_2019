@@ -347,6 +347,7 @@ textLoc('(c)','NorthWest','FontSize',18,'Color','k');
 
 %% Figure 8
 area = importdata('area.mat');
+area = repmat(area,1,12);
 vtypes = {'Forest','Shrub','Grass','Crop','Urban','Snow','Sparse','All FLTs'};
 years = [2005,2010,2050,2100];
 
