@@ -12,7 +12,7 @@ Chen, M., Vernon, C.R., Huang, M., Calvin, K.V. & Kraucunas, I.P. (2019, April 9
 ## Journal reference
 Chen, M., Vernon, C. R., Huang, M., Calvin, K. V., and Kraucunas, I. P.: Calibration and analysis of the uncertainty in downscaling global land use and land cover projections from GCAM, Geosci. Model Dev. Discuss., https://doi.org/10.5194/gmd-2018-248, in review, 2019.
 
-## Data reference and DOI
+## Data reference
 Chen, M., Vernon, C.R., Huang, M., Calvin, K.V. & Kraucunas, I.P. (2019). Calibration and analysis of the uncertainty in downscaling global land use and land cover projections from GCAM [Data set]. https://dx.doi.org/10.25584/data.2019-04.715/1505616
 
 ## Contributing model versions and DOIs
