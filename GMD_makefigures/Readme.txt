@@ -8,6 +8,8 @@ RMSEarea_PFT_year_2000.mat  matlab file that summarizes the mismatches between d
 RMSEarea_PFT_year_2005.mat  matlab file that summarizes the mismatches between downscaled and reference data for each FLT in 2005
 RMSEarea_PFT_year_2010.mat  matlab file that summarizes the mismatches between downscaled and reference data for each FLT in 2010
 RMSEarea_PFT_year_2015.mat  matlab file that summarizes the mismatches between downscaled and reference data for each FLT in 2015
+RMSEarea_PFT_IN_*.mat	    matlab file that summarizes the mismatches between downscaled and reference data in India for each FLT in year *
+RMSEarea_PFT_US_*.mat	    matlab file that summarizes the mismatches between downscaled and reference data in the US for each FLT in year *
 LC_2005_mean_10p.mat        matlab file that contains the mean of the downscaled FLTs (in fraction of grid area) from the ensemble runs with the top 10% parameters in 2005
 LC_2005_mean_5p.mat         matlab file that contains the mean of the downscaled FLTs (in fraction of grid area) from the ensemble runs with the top 5% parameters in 2005
 LC_2005_std_10p.mat         matlab file that contains the std of the downscaled FLTs (in fraction of grid area) from the ensemble runs with the top 10% parameters in 2005

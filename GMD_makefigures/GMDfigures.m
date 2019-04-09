@@ -1,3 +1,7 @@
+%% add mapping tools
+
+addpath('m_map');
+
 %% Read in the errors of the ensemble downscaling
 
 years = [1992,2000,2005,2010,2015];
