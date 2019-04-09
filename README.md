@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/179581628.svg)](https://zenodo.org/badge/latestdoi/179581628)
+
 # chen_et_al_gmd_2019
 Supplemental code to produce results and figures for Chen et al. (2019) - GMD paper
 
